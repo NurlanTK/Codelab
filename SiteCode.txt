@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- saved from url=(0664)file:///D:/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9%20%D0%A0%D0%90%D0%91%20%D0%A1%D0%A2%D0%9E%D0%9B/%D0%A1%D0%A2%D0%90%D0%A0%D0%AB%D0%99%20%D0%9A%D0%9E%D0%9C%D0%9F/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D1%8B%202012/%D0%97%D0%B8%D0%BD%D1%84-32%D1%81/%D0%94%D0%A0%20%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2%D0%BE%D0%B9_%D0%A0%D0%B0%D0%B7%D1%80%20%D0%AD%D0%A3%D0%9F%20%D0%A1%D0%BE%D0%B7%D0%B4%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D1%81%20%D0%BF%D0%BE%D0%BC%20DreamWeaver/%D0%AD%D0%A3%D0%9F%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20DreamWeaver/%D1%82%D0%B5%D1%81%D1%821.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Тест 1</title>
+<link href="../тест/Основы%20Web-дизайна_files/style.css" rel="stylesheet" type="text/css">
+</head>
+<body vlink="#2FD550" alink="#2FD550" link="#2FD550" bgcolor="#99FFCC">
+<br>
+<br>
+<script language="JavaScript">
+<!-- Hide JavaScript from Java-Impaired Browsers
+function dataBase(test) {
+     var counter=0;
+     if (test.q1[3].checked) {counter++;}
+     if (test.q2[1].checked) {counter++;}
+     if (test.q3[3].checked) {counter++;}
+     if (test.q4[2].checked) {counter++;}
+     if (test.q5[3].checked) {counter++;}
+     if (test.q6[1].checked) {counter++;}
+     if (test.q7[2].checked) {counter++;}
+     if (test.q8[3].checked) {counter++;}
+     if (test.q9[0].checked) {counter++;}
+     if (test.q10[3].checked) {counter++;}
+     if (test.q11[0].checked) {counter++;}
+     if (test.q12[0].checked) {counter++;}
+     if (test.q13[3].checked) {counter++;}
+     if (test.q14[1].checked) {counter++;}
+     if (test.q15[3].checked) {counter++;}
+    
+    
+     document.test.display.value = counter;
+}
+function test1(dataBase){
+if (Number.isInteger(counter){window.alert (test1 true)}
+}
+function test2(dataBase){
+if (counter=>0 && counter <16){window.alert (test2 true)} 
+}
+function test3(dataBase){
+if (counter == document.test.display.value){window.alert (test3 true)} 
+}
+
+// End Hiding Script -->
+</script>
+<form action="http://pi.sfedu.ru/rspu/structure/university_departments/math_faculty/site/stud_materials/Chigiryov/remove_it?subject=Answer%20on%20test%20questions" method="post" name="test">
+	<p align="center"><font size="6"><!--ENCTYPE="text/plain"-->
+	</font>
+<font color="#400000" face="Georgia" size="6">Тест 1. Основы компьютерных систем<br></font>
+<font color="#400000" face="Georgia" size="5"><br><br><br><br>
+	</p>
+<hr width="75%">
+<font color="#000000" face="Georgia" size="3">1. Комплекс аппаратных и программных средств, позволяющих компьютерам обмениваться данными, - это: <div align="left"><p style="MARGIN-LEFT: 100px"><br>
+
+<input name="q1" type="radio" value="11"> магистраль <br>
+<input name="q1" type="radio" value="12"> адаптер<br>
+<input name="q1" type="radio" value="13"> интерфейс<br>
+<input name="q1" type="radio" value="14"> компьютерная сеть<br>
+</p>
+</div><hr>
+2. Адресация - это ... <div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q2" type="radio" value="21">количество бод (символов/сек), пересылаемой информации модемом <br>
+<input name="q2" type="radio" value="22">способ идентификации абонентов в сети<br>
+<input name="q2" type="radio" value="23">адрес сервера<br>
+<input name="q2" type="radio" value="24">почтовый адрес пользователя сети <br>
+</p>
+</div><hr>
+ 3. Домен - это <div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q3" type="radio" value="31">единица измерения информации<br>
+<input name="q3" type="radio" value="32">название программы для осуществления связи между компьютерами <br>
+<input name="q3" type="radio" value="33">название устройства, осуществляющего связь между компьютерами <br>
+<input name="q3" type="radio" value="34">часть адреса, определяющая адрес компьютера в сети <br>
+</p>
+</div><hr>
+4. Скорость передачи данных - это ... <div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q4" type="radio" value="41">количество бит информации, передаваемой через модем в единицу времени  <br>
+<input name="q4" type="radio" value="42">количество байт информации, переданной с одного компьютера на другой <br>
+<input name="q4" type="radio" value="43">количество информации, передаваемой в одну секунду  <br>
+<input name="q4" type="radio" value="44">количество байт информации, передаваемой за одну минуту<br>
+</p>
+</div><hr>
+5. Что такое DNS?<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q5" type="radio" value="51">Служба передачи файлов  <br>
+<input name="q5" type="radio" value="52">Служба поиска сетевого адреса <br>
+<input name="q5" type="radio" value="53">Служба поиска доменов <br>
+<input name="q5" type="radio" value="54">Служба имен доменов <br>
+</p>
+</div><hr>
+6. Укажите основные задачи, решаемые при создании компьютерных сетей:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q6" type="radio" value="61">Обеспечение совместимости по размеру экрана мониторов компьютеров, объединяемых в сеть<br>
+<input name="q6" type="radio" value="62">Обеспечение совместимости информационного обеспечения (программ и данных) по системе кодирования и формату данных<br>
+<input name="q6" type="radio" value="63">Определение характеристик периферийных устройств у компьютеров, объединяемых в сеть<br>
+<input name="q6" type="radio" value="64">Обеспечение совместимости оборудования по электрическим и механическим характеристикам<br>
+</p>
+</div><hr>
+7. Согласно модели ISO/OSI архитектуру компьютерных сетей следует рассматривать на семи уровнях, где самый верхний уровень:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q7" type="radio" value="71">Виртуальный<br>
+<input name="q7" type="radio" value="72">Физический<br>
+<input name="q7" type="radio" value="73">Прикладной<br>
+<input name="q7" type="radio" value="74">Нижний<br>
+</p>
+</div><hr>
+8. Согласно модели ISO/OSI архитектуру компьютерных сетей следует рассматривать на семи уровнях, где самый нижний уровень:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q8" type="radio" value="81">Прикладной<br>
+<input name="q8" type="radio" value="82">Нижний <br>
+<input name="q8" type="radio" value="83">Виртуальный <br>
+<input name="q8" type="radio" value="84">Физический<br>
+</p>
+</div><hr>
+9. Протокол - это:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q9" type="radio" value="91">Правила организации передачи данных в сети <br>
+<input name="q9" type="radio" value="92">Правила хранения данных в сети <br>
+<input name="q9" type="radio" value="93">Пакет данных<br>
+<input name="q9" type="radio" value="94">Схема передачи данных в сети<br>
+</p>
+</div><hr>
+10. Модем - это:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q10" type="radio" value="101">Устройство, которое управляет процессом передачи информации<br>
+<input name="q10" type="radio" value="102">Транспортная основа сети<br>
+<input name="q10" type="radio" value="103">Канал передачи данных<br>
+<input name="q10" type="radio" value="104">Устройство преобразования цифровых сигналов в аналоговые, и наоборот<br>
+</p>
+</div><hr>
+11.  Специальный компьютер, выделенный для совместного использования участниками сети, называется:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q11" type="radio" value="111">Сервером <br>
+<input name="q11" type="radio" value="112">Директорием <br>
+<input name="q11" type="radio" value="113">Администратором <br>
+<input name="q11" type="radio" value="114">Процессором<br>
+</p>
+</div><hr>
+12.  Лицо, управляющее организацией работы участников локальной компьютерной сети (политикой сети), называется системным:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q12" type="radio" value="121">Администратором<br>
+<input name="q12" type="radio" value="122">Процессором <br>
+<input name="q12" type="radio" value="123">Сервером <br>
+<input name="q12" type="radio" value="124">Директорием</p>
+</div><hr>
+13. Укажите единицы измерения скорости передачи данных в сети:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q13" type="radio" value="131">Бод<br>
+<input name="q13" type="radio" value="132">Герц<br>
+<input name="q13" type="radio" value="133">Байт<br>
+<input name="q13" type="radio" value="134">Бит<br>
+</p>
+</div><hr>
+14. Обмен информацией между компьютерными сетями, в которых действуют разные сетевые протоколы, осуществляется с использованием: <div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q14" type="radio" value="141">модемов <br>
+<input name="q14" type="radio" value="142">шлюзов <br>
+<input name="q14" type="radio" value="143">хост-компьютеров  <br>
+<input name="q14" type="radio" value="144">файл-серверов<br>
+</p>
+</div><hr>
+15. Для обеспечения необходимой совместимости на каждом из семи возможный уровней архитектуры компьютерной сети действуют специальные стандарты:<div align="left"><p style="MARGIN-LEFT: 100px"><br>
+<input name="q15" type="radio" value="151">Госты<br>
+<input name="q15" type="radio" value="152">СНиП<br>
+<input name="q15" type="radio" value="153">Порты<br>
+<input name="q15" type="radio" value="154">Протокола<br>
+</p>
+</div><hr>
+
+
+	<table>
+<tbody><tr>
+<td colspan="3"><div align="center"><p><strong><br></strong></p><hr><strong>Проверить результат:</strong></div></td>
+    
+</tr>
+<tr align="middle">
+<td><strong><input name="check" onclick="dataBase(this.form)" type="button" value=" Подсчитать баллы "></strong></td>
+<td><strong><textarea name="display" rows="1" wrap="VIRTUAL" cols="5"></textarea></strong></td>
+<td><strong><input type="reset" value=" Сбросить ответы "></strong></td>
+</tr>
+</tbody></table>
+
+<p align="center"><strong><br>
+</strong></p><ul><strong>
+<li>0-7  Неудовлетворительно
+</li><li>8-10  Удовлетворительно</li><li>11-13  Хорошо</li><li>14-15 Отлично</li>
+</strong></ul>
+	<p align="center"><strong>
+<br>
+	<a href="Главная.htm">на главную</a></strong></p>
+<p></p>
+ <br><br>
+
+
+<div id="footer"></div>
+
+
+</font></font></form></body></html>
